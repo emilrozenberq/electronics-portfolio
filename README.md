@@ -3,7 +3,6 @@
 > 🎓 **Course:** Basic Electronics
 > 🏫 **Institution:** Khazar University
 > ✅ **Verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi)
-> 🔗 [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
 
