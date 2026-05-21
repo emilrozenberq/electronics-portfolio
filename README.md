@@ -3,6 +3,7 @@
 > 🎓 **Course:** Basic Electronics
 > 🏫 **Institution:** Khazar University
 > ✅ **Verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi)
+> 🔗 [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
 
@@ -53,9 +54,50 @@
 👤 **Author:** Emil Rozenberq
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
-
-### 6 — Hand written notes...
-https://drive.google.com/drive/folders/1ONEbMDf3CRMiX0qicUu-Nt7p-tNjBNd4?usp=sharing
 ---
 
-*📌 All projects completed as part of the Basic Electronics course. Simulations conducted using Proteus and Wokwi platforms.*
+### 6 — 🔌 Series vs Parallel Circuit Analysis
+🔗 [View on Academia.edu](https://www.academia.edu/167422608/SERIES_VS_PARALLEL_CIRCUIT_ANALYSIS_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
+
+📄 Analysis of series and parallel circuits — theory, formulas and practical examples.
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 7 — 🔋 Capacitors in Physics
+🔗 [View on Academia.edu](https://www.academia.edu/167422524/CAPACITORS_IN_PHYSICS_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
+
+📄 Study of capacitors — structure, types, charging/discharging behaviour and applications.
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 8 — 🌀 Inductor Fundamentals — A Modern Engineering Overview
+🔗 [View on Academia.edu](https://www.academia.edu/167422331/INDUCTOR_FUNDAMENTALS_A_MODERN_ENGINEERING_OVERVIEW_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
+
+📄 Modern engineering overview of inductors — principles, construction and real-world applications.
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 9 — 🎥 Project 2.6 — Video Presentation
+🔗 [Watch on Google Drive](https://drive.google.com/file/d/1tPpEthb-bYqpoazSZLXxTpkkp95JEWzI/view?usp=sharing)
+
+📄 Video explanation of Project 2.6 — Smart Automatic Light and Warning System. Demonstrates the circuit simulation in Wokwi and explains the code and working principle step by step.
+👤 **Author:** Emil Rozenberq
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 10 — 📝 Handwritten Course Notes
+🔗 [View on Google Drive](https://drive.google.com/drive/folders/1ONEbMDf3CRMiX0qicUu-Nt7p-tNjBNd4?usp=sharing)
+
+📄 Handwritten notes covering all major topics from the semester — electrons and charge, potential difference, series and parallel circuits, EMF, Kirchhoff's laws, voltage dividers and circuit components.
+👤 **Author:** Emil Rozenberq
+
+---
+
+*📌 All projects completed as part of the Basic Electronics course. Simulations conducted using Wokwi platform.*
