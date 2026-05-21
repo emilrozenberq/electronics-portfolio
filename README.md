@@ -1,8 +1,8 @@
 # ⚡ Electronics Portfolio — Emil Rozenberq
 
-> 🎓 **Course:** Basic Electronics
-> 🏫 **Institution:** Khazar University
-> ✅ **Verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi)
+> 🎓 **Course:** Basic Electronics  
+> 🏫 **Institution:** Khazar University  
+> ✅ **Verified by:** Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi)  
 > 🔗 [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -14,8 +14,8 @@
 ### 1 — 🔬 Field Effect Transistors
 🔗 [View on SlideShare](https://www.slideshare.net/slideshow/field-effect-transistors-hikmat-mammadov-mahammmad-mammadov-fikrat-gurbanov-emil-rozenberg-murad-shirinov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287154378)
 
-📄 Study of Field Effect Transistors — types, characteristics, and applications.
-👥 **Authors:** Hikmat Mammadov | Mahammad Mammadov | Fikrat Gurbanov | Emil Rozenberq | Murad Shirinov
+📄 Study of Field Effect Transistors — types, characteristics, and applications.  
+👥 **Authors:** Hikmat Mammadov | Mahammad Mammadov | Fikrat Gurbanov | Emil Rozenberq | Murad Shirinov  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -23,8 +23,8 @@
 ### 2 — 🇦🇿 Analytical Study of Azerbaijan's Electronics Sector
 🔗 [View on SlideShare](https://www.slideshare.net/slideshow/an-analytical-study-of-the-deficiencies-and-development-challenges-in-azerbaijan-s-electronics-sector-fikret-qurbanov-emil-rozenberq-murad-sirinov-xeqani-ceferli-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287388938)
 
-📄 Analytical study of deficiencies and development challenges in Azerbaijan's electronics sector.
-👥 **Authors:** Fikrat Qurbanov | Emil Rozenberq | Murad Shirinov | Xaqani Ceferli
+📄 Analytical study of deficiencies and development challenges in Azerbaijan's electronics sector.  
+👥 **Authors:** Fikrat Qurbanov | Emil Rozenberq | Murad Shirinov | Xaqani Ceferli  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -32,8 +32,8 @@
 ### 3 — ⚡ Voltage Divider Formula — Detailed Documentation
 🔗 [View on Academia.edu](https://www.academia.edu/167420815/Voltage_Divider_Formula_Detailed_Documentation_Physics_Guide_Voltage_Drop)
 
-📄 Detailed documentation and physics guide on voltage divider formula and voltage drop.
-👥 **Authors:** Mahammad Mammadov | Emil Rozenberq | Fikrat Qurbanov | Murad Shirinov
+📄 Detailed documentation and physics guide on voltage divider formula and voltage drop.  
+👥 **Authors:** Mahammad Mammadov | Emil Rozenberq | Fikrat Qurbanov | Murad Shirinov  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -41,8 +41,8 @@
 ### 4 — ⚡ Voltage Divider Formula — Full Group Documentation
 🔗 [View on Academia.edu](https://www.academia.edu/167420829/Voltage_Divider_Formula_Detailed_Documentation_Physics_Guide_Voltage_Drop_Mahammad_Mammadov_Enil_Rozenberq_Fikrat_Qurbanov_Murad_Shirinov_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_)
 
-📄 Full group documentation on voltage divider formula with verification.
-👥 **Authors:** Mahammad Mammadov | Emil Rozenberq | Fikrat Qurbanov | Murad Shirinov
+📄 Full group documentation on voltage divider formula with verification.  
+👥 **Authors:** Mahammad Mammadov | Emil Rozenberq | Fikrat Qurbanov | Murad Shirinov  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -50,8 +50,8 @@
 ### 5 — 🤖 PROJECT 2.6 — Smart Automatic Light and Warning System
 🔗 [View on Academia.edu](https://www.academia.edu/167420877/PROJECT_2_6_Smart_Automatic_Light_and_Warning_System_Using_LDR_Sensor_Arduino_Uno_Relay_LED_and_Buzzer_by_Emil_Rozenberq)
 
-📄 Individual project: Smart automatic lighting and warning system using LDR sensor, Arduino Uno, relay module, LED and buzzer. Simulated in Wokwi.
-👤 **Author:** Emil Rozenberq
+📄 Individual project: Smart automatic lighting and warning system using LDR sensor, Arduino Uno, relay module, LED and buzzer. Simulated in Wokwi.  
+👤 **Author:** Emil Rozenberq  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -59,8 +59,8 @@
 ### 6 — 🔌 Series vs Parallel Circuit Analysis
 🔗 [View on Academia.edu](https://www.academia.edu/167422608/SERIES_VS_PARALLEL_CIRCUIT_ANALYSIS_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
 
-📄 Analysis of series and parallel circuits — theory, formulas and practical examples.
-👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq
+📄 Analysis of series and parallel circuits — theory, formulas and practical examples.  
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -68,8 +68,8 @@
 ### 7 — 🔋 Capacitors in Physics
 🔗 [View on Academia.edu](https://www.academia.edu/167422524/CAPACITORS_IN_PHYSICS_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
 
-📄 Study of capacitors — structure, types, charging/discharging behaviour and applications.
-👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq
+📄 Study of capacitors — structure, types, charging/discharging behaviour and applications.  
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -77,8 +77,8 @@
 ### 8 — 🌀 Inductor Fundamentals — A Modern Engineering Overview
 🔗 [View on Academia.edu](https://www.academia.edu/167422331/INDUCTOR_FUNDAMENTALS_A_MODERN_ENGINEERING_OVERVIEW_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
 
-📄 Modern engineering overview of inductors — principles, construction and real-world applications.
-👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq
+📄 Modern engineering overview of inductors — principles, construction and real-world applications.  
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
@@ -86,16 +86,60 @@
 ### 9 — 🎥 Project 2.6 — Video Presentation
 🔗 [Watch on Google Drive](https://drive.google.com/file/d/1tPpEthb-bYqpoazSZLXxTpkkp95JEWzI/view?usp=sharing)
 
-📄 Video explanation of Project 2.6 — Smart Automatic Light and Warning System. Demonstrates the circuit simulation in Wokwi and explains the code and working principle step by step.
-👤 **Author:** Emil Rozenberq
+📄 Video explanation of Project 2.6 — Smart Automatic Light and Warning System. Demonstrates the circuit simulation in Wokwi and explains the code and working principle step by step.  
+👤 **Author:** Emil Rozenberq  
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
 ---
 
-### 10 — 📝 Handwritten Course Notes
+### 10 — ⚡ Voltage Divider Formula — Quick Reference Edition
+🔗 [View on Academia.edu](https://www.academia.edu/167420815/Voltage_Divider_Formula_Detailed_Documentation_Physics_Guide_Voltage_Drop)
+
+📄 Simplified reference guide on voltage divider calculations, practical applications, and voltage drop analysis.  
+👥 **Authors:** Mahammad Mammadov | Emil Rozenberq | Fikrat Qurbanov | Murad Shirinov  
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 11 — 🔌 Circuit Theory — Series & Parallel Systems
+🔗 [View on Academia.edu](https://www.academia.edu/167422608/SERIES_VS_PARALLEL_CIRCUIT_ANALYSIS_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
+
+📄 Detailed analysis of series and parallel circuit behaviour with formulas and real-world examples.  
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq  
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 12 — 🤖 Smart Automatic Light System — Technical Overview
+🔗 [View on Academia.edu](https://www.academia.edu/167420877/PROJECT_2_6_Smart_Automatic_Light_and_Warning_System_Using_LDR_Sensor_Arduino_Uno_Relay_LED_and_Buzzer_by_Emil_Rozenberq)
+
+📄 Technical documentation for the smart automatic light and warning system using Arduino Uno, LDR sensor, relay module, LED and buzzer.  
+👤 **Author:** Emil Rozenberq  
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 13 — 🧪 Electronics Components — Capacitors & Inductors
+🔗 [View on Academia.edu](https://www.academia.edu/167422524/CAPACITORS_IN_PHYSICS_Made_by_Mahammad_Mammadov_Fikrat_Gurbanov_Murad_Shirinov_Emil_Rozenberg_Checked_by_Physics_Teacher_Telman_Askeraliyev)
+
+📄 Engineering overview of capacitors and inductors, including construction, principles and applications.  
+👥 **Authors:** Mahammad Mammadov | Fikrat Gurbanov | Murad Shirinov | Emil Rozenberq  
+✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+---
+
+### 14 — 📘 Semester Electronics Archive
 🔗 [View on Google Drive](https://drive.google.com/drive/folders/1ONEbMDf3CRMiX0qicUu-Nt7p-tNjBNd4?usp=sharing)
 
-📄 Handwritten notes covering all major topics from the semester — electrons and charge, potential difference, series and parallel circuits, EMF, Kirchhoff's laws, voltage dividers and circuit components.
+📄 Complete semester archive including project files, circuit analysis, and electronics documentation.  
+👤 **Author:** Emil Rozenberq
+
+---
+
+### 15 — 📝 Handwritten Course Notes
+🔗 [View on Google Drive](https://drive.google.com/drive/folders/1ONEbMDf3CRMiX0qicUu-Nt7p-tNjBNd4?usp=sharing)
+
+📄 Handwritten notes covering all major topics from the semester — electrons and charge, potential difference, series and parallel circuits, EMF, Kirchhoff's laws, voltage dividers and circuit components.  
 👤 **Author:** Emil Rozenberq
 
 ---
