@@ -53,6 +53,9 @@
 👤 **Author:** Emil Rozenberq
 ✅ **Verified by:** Physics Teacher Telman Askeraliyev — [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) | [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
 
+
+### 6 — Hand written notes...
+https://drive.google.com/drive/folders/1ONEbMDf3CRMiX0qicUu-Nt7p-tNjBNd4?usp=sharing
 ---
 
 *📌 All projects completed as part of the Basic Electronics course. Simulations conducted using Proteus and Wokwi platforms.*
